@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="e4b4aad0-1393-48c2-8bbf-5a45e6f7ed47" name="PhotoShare" url="http://ec2-52-50-135-218.eu-west-1.compute.amazonaws.com">
-        <fileTransfer host="ec2-52-50-135-218.eu-west-1.compute.amazonaws.com" port="22" privateKey="C:\Users\Asus\PhpstormProjects\CM4025Key.pem" rootFolder="/home/ubuntu" accessType="SFTP" keyPair="true">
+      <webServer id="e4b4aad0-1393-48c2-8bbf-5a45e6f7ed47" name="PhotoShare" url="http://ec2-52-212-58-228.eu-west-1.compute.amazonaws.com">
+        <fileTransfer host="ec2-52-212-58-228.eu-west-1.compute.amazonaws.com" port="22" privateKey="C:\Users\Asus\PhpstormProjects\CM4025Key.pem" rootFolder="/home/ubuntu" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
